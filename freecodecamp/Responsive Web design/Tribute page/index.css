@@ -1,0 +1,30 @@
+h1, p, h3, h2 {
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+h1 {
+    font-size: 40px;
+}
+.nel {
+    background-color: rgb(238, 238, 238);
+    margin-top: 30px;
+    margin-bottom: 40px;
+    border-radius: 8px;
+}
+.dive {
+    background-color: white;
+    margin-left: 9px;
+    margin-right: 9px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.list-wrapper {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.din {
+    margin-left: 400px;
+}
+.it {
+    font-style: italic;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}

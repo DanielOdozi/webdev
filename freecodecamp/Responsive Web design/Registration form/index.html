@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration form</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div>
+        <h1><b>Registration Form</b></h1>
+    </div>
+    <div>
+        <h4>Please fill out this form with the required information</h4>
+    </div>
+    <form action="file:///C:/wamp64/www/Web/Registration%20form/index.html" method="post">
+        <section>
+            <label for="firstname">
+                <h3>Enter Your First Name:</h3>
+                <center><input type="text" class="input" name="firstname" required></center>
+            </label>
+            <label for="lastname">
+                <h3>Enter Your Last Name:</h3>
+                <center><input type="text" class="input"  name="lastname" required></center>
+            </label>
+            <label for="email">
+                <h3>Enter Your Email:</h3>
+                <center><input type="email" class="input" name="email" required></center>
+            </label>
+            <label for="password">
+                <h3>Create a New Password:</h3>
+                <center><input type="password" class="input" name="password" required></center>
+            </label>
+        </section>
+        <br>
+        <hr class="line">
+        <br>
+        <section>
+            <label for="personal">
+                <input id="personal" type="radio" name="personal-business" value="personal" checked> Personal Account</label>
+        </section>
+        <br>
+        <section>
+            <label for="business">
+                <input id="business" type="radio" name="personal-business" value="business" checked> Business Account</label>
+        </section>
+        <br>
+        <section>
+            <label for="terms">
+                <input type="checkbox" name="terms" required> I accept the <a href="Terms&conditions.html">terms and conditions</a>
+            </label>
+        </section>
+        <br>
+        <hr class="line">
+        <br>
+        <section>
+            <h3>Upload a profile picture:</h3>
+            <center><input type="file" id="avatar" name="avatar" accept="image/png, image/jpeg" class="int" required></center>
+            <label for="age"><h3>Input your age (years):</h3>
+                <center><input type="number" class="input"  id="age" name="age" min="13" max="120" required></center>
+            </label>
+            <label for="about"><h3>How did you hear about us?</h3>
+                <center>
+                    <select class="int2" id="about" name="about" required>
+                        <option value="select">(Select one)</option>
+                        <option value="news">Freecodecamp News</option>
+                        <option value="youtube">FreeCodeCamp Youtube channel</option>
+                        <option value="forum">FreeCodeCamp Forum</option>
+                        <option value="other">other</option>
+                    </select>
+                </center>
+            </label>
+            <label for="bio">
+                <h3>Provide a bio:</h3>
+                <center><textarea name="bio" id="" cols="30" rows="10" class="input" placeholder="I like coding on the beach..."></textarea></center>
+            </label>
+        </section>
+        <br>
+        <label for="submit">
+            <center><input type="submit" value="submit" class="submit"></center>
+        </label>
+    </form>
+</body>
+</html>

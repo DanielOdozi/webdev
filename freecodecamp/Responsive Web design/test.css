@@ -1,0 +1,7 @@
+body {
+    display: flexbox;
+    justify-content: right;
+    z-index: 999;
+    width: fit-content;
+    display: block;
+}
