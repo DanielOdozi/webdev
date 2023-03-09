@@ -1,0 +1,274 @@
+
+.depicter-revert .depicter-1-element-55{
+	border-width:2px 2px 2px 2px;
+	border-style:solid;
+	border-color:#FFFFFF;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-1-element-55 .depicter-arrow-icon{
+	fill:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-56{
+	background-color:transparent;
+}
+.depicter-1-element-56 .depicter-bullet-item{
+	background-color:rgba(0, 0, 0, 0.5);
+	border-radius:5px 5px 5px 5px ;
+	margin-right:5px;
+	width:9px;
+	height:9px;
+}
+.depicter-1-element-56 .depicter-bullet-item.depicter-bullet-active{
+	background-color:#000000;
+}
+.depicter-revert .depicter-1-element-57{
+	background-color:transparent;
+	border-width:2px 2px 2px 2px;
+	border-style:solid;
+	border-color:#FFFFFF;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-1-element-57 .depicter-arrow-icon{
+	fill:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-33{
+	font-size:13px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Roboto";
+	font-weight:100;
+	background-color:#4980F5;
+	border-radius:20px;
+}
+.depicter-revert .depicter-1-element-33:not(.depicter-hover-off):hover {
+	color:#000000;
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-26{
+	font-size:18px;
+	color:#000000;
+	font-family:"Space Grotesk";
+	font-weight:700;
+	text-transform:uppercase;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-25{
+	font-size:60px;
+	text-align:center;
+	color:#000000;
+	font-family:"Eczar";
+	font-weight:700;
+	line-height:116%;
+	text-transform:uppercase;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-24{
+	background-color:#222222;
+}
+.depicter-revert .depicter-1-section-13 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-35{
+	font-size:13px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Roboto";
+	font-weight:100;
+	background-color:#4980F5;
+	border-radius:20px;
+}
+.depicter-revert .depicter-1-element-35:not(.depicter-hover-off):hover {
+	color:#000000;
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-34{
+	font-size:18px;
+	color:#FFFFFF;
+	font-family:"Space Grotesk";
+	font-weight:700;
+	text-transform:uppercase;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-30{
+	font-size:18px;
+	color:#FFFFFF;
+	font-family:"Space Grotesk";
+	font-weight:700;
+	text-transform:uppercase;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-29{
+	font-size:80px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Eczar";
+	font-weight:700;
+	line-height:116%;
+	text-transform:uppercase;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-28{
+	background-color:#222222;
+}
+.depicter-revert .depicter-1-section-3 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-37{
+	font-size:13px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Roboto";
+	font-weight:100;
+	background-color:#4980F5;
+	border-radius:20px;
+}
+.depicter-revert .depicter-1-element-37:not(.depicter-hover-off):hover {
+	color:#000000;
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-36{
+	font-size:25px;
+	color:#000000;
+	font-family:"Space Grotesk";
+	font-weight:700;
+	text-transform:uppercase;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-32{
+	font-size:60px;
+	text-align:center;
+	color:#000000;
+	font-family:"Eczar";
+	font-weight:700;
+	line-height:116%;
+	text-transform:uppercase;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-31{
+	background-color:#222222;
+}
+.depicter-revert .depicter-1-section-6 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-revert .depicter-1-element-33{
+	font-size:13px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Roboto";
+	font-weight:100;
+	background-color:#4980F5;
+}
+.depicter-revert .depicter-1-element-26{
+	font-size:18px;
+	color:#000000;
+	font-family:"Space Grotesk";
+	font-weight:700;
+	text-transform:uppercase;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-25{
+	font-size:60px;
+	text-align:center;
+	color:#000000;
+	font-family:"Eczar";
+	font-weight:700;
+	line-height:116%;
+	text-transform:uppercase;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-24{
+	background-color:#222222;
+}
+.depicter-revert .depicter-1-section-13 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-revert .depicter-1-element-33{
+	font-size:13px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Roboto";
+	font-weight:100;
+	background-color:#4980F5;
+}
+.depicter-revert .depicter-1-element-26{
+	font-size:15px;
+	color:#000000;
+	font-family:"Space Grotesk";
+	font-weight:700;
+	text-transform:uppercase;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-25{
+	font-size:25px;
+	text-align:center;
+	color:#000000;
+	font-family:"Eczar";
+	font-weight:700;
+	line-height:116%;
+	text-transform:uppercase;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-section-13 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-29{
+	font-size:28px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Eczar";
+	font-weight:700;
+	line-height:116%;
+	text-transform:uppercase;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-section-3 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-37{
+	font-size:13px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Roboto";
+	font-weight:100;
+	background-color:#4980F5;
+}
+.depicter-revert .depicter-1-element-36{
+	font-size:10px;
+	color:#000000;
+	font-family:"Space Grotesk";
+	font-weight:700;
+	text-transform:uppercase;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-32{
+	font-size:25px;
+	text-align:center;
+	color:#000000;
+	font-family:"Eczar";
+	font-weight:700;
+	line-height:116%;
+	text-transform:uppercase;
+	background-color:transparent;
+}
+
+}
+/*** Custom styles ***/
+h1 {
+  font-weight: bold;
+}
+h1 {
+  font-weight: bold;
+}
+h1 {
+  font-weight: bold;
+}
+
